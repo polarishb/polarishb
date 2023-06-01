@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=120&section=header&text=I%20AM&fontSize=70&fontColor=ffffff&fontAlign=87&fontAlignY=22&desc=SYSTEM%20ENGINEER&descAlign=87&descAlignY=45&rotate=8)
 
 ## 👨‍💻 Experience
-- 한국정보교육원 (2022.10 - 2023.06) | 교육생
+- 한국정보교육원 (2022.12 - 2023.06) | 교육생
 
 ## ⚒ Skills
 ### Platform & Languages
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=ffffff"/>     
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Shell Script-4EAA25?style=flat-square&logo=GNU Bash&logoColor=ffffff"/>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Shell Script-4EAA25?style=flat-square&logo=GNU Bash&logoColor=ffffff"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=YAML&logoColor=ffffff"/>   
 ### OS & Tools
-<img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=RedHat&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Windows Server-0078D6?style=flat-square&logo=Windows&logoColor=ffffff"/>   
+<img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=RedHat&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Windows Server-0078D6?style=flat-square&logo=Windows&logoColor=ffffff"/> <img src="https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=ffffff"/>   
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VIM-019733?style=flat-square&logo=vim&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
 
 ## 🌟 Certificates
