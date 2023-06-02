@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## 🌟 Certificates
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37509306/242606328-22a2c466-1a22-4fc1-b362-dc309fb24f21.png" width="160" height="160" /> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37509306/242607443-b324be1f-5966-47f4-b662-93fdbca45469.png" width="160" height="160" />
+<a href="https://www.credly.com/badges/9dd4e2c5-bc1a-49a8-a113-08ce50e9d12f" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37509306/242606328-22a2c466-1a22-4fc1-b362-dc309fb24f21.png" width="160" height="160" /></a> <a href="https://www.credly.com/badges/13f6e80a-c243-49cc-8120-c2d5147d2dd5" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37509306/242607443-b324be1f-5966-47f4-b662-93fdbca45469.png" width="160" height="160" /></a>
 
 <div align=right><img src="https://img.shields.io/badge/polaris.hb03@gmail.com-ea4435?style=flat-square&logo=gmail&logoColor=ffffff"/> <a href="https://www.linkedin.com/in/woojun-kim-32354771/" target="_blank"><img src="https://img.shields.io/badge/WOOJUN KIM-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff"/></a> </div>
