@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=120&section=header&text=I%20AM&fontSize=70&fontColor=ffffff&fontAlign=87&fontAlignY=22&desc=SYSTEM%20ENGINEER&descAlign=87&descAlignY=45&rotate=8)
 
+## 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polarishb&show_icons=true&include_all_commits=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarishb&layout=compact&theme=transparent">
+</p>
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=polaris03)
+
 ## 👨‍💻 Experience
 - 한국정보교육원 (2022.12 - 2023.06) | 교육생
 
