@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Experience
 - 한국정보교육원 (2022.12 - 2023.06) | 교육생
-
+- 트랜스코스모스코리아 ( 2023.11 - current ) | Microsoft External Staff - Support Engineer
 ## ⚒ Skills
 ### Platform & Languages
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=ffffff"/>      
