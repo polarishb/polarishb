@@ -1,6 +1,7 @@
 ## 👨‍💻 Experience
 - 한국정보교육원 (2022.12 - 2023.06) | Trainee
-- 한국마이크로소프트 ( 2023.11 - current ) | Microsoft External Staff - Support Engineer
+- 한국마이크로소프트 ( 2023.11 - 24.11 ) | Microsoft External Staff - Support Engineer
+- SSAFY ( 25.01 - current ) | Trainee
 ## ⚒ Skills
 ### Platform & Languages
 <img src="https://img.shields.io/badge/Microsft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ffffff"/>   
